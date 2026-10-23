@@ -1,4 +1,4 @@
-This repository presents the data used to replicate the results of Aguilar and Lahura (2025), “When Expectations Matter: The Role of Fiscal Foresight in Government Spending Shocks in Peru.”
+This repository presents the data and replication codes used to replicate the results of Aguilar and Lahura (2025), “When Expectations Matter: The Role of Fiscal Foresight in Government Spending Shocks in Peru.”
 
 The file "Data_Aguilar_Lahura_2025.xlsx" contains the variables used in the main estimation and in robustness exercises 1, 2, and 3.
 
